@@ -1,0 +1,2 @@
+const person = {};
+person['firstname'] = '';
